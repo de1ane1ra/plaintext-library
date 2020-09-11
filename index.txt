@@ -1,0 +1,7 @@
+adventures-in-wonderland
+    title: Alice's Adventures In Wonderland
+    author: Lewis Carroll
+    author date: 1920
+    genre: fiction
+    file-name: alice-adventures-in-wonderland.txt
+    tags:
